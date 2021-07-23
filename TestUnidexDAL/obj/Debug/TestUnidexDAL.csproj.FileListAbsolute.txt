@@ -1,0 +1,13 @@
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\obj\Debug\TestUnidexDAL.Form1.resources
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\obj\Debug\TestUnidexDAL.Properties.Resources.resources
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\obj\Debug\TestUnidexDAL.csproj.GenerateResource.cache
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\obj\Debug\TestUnidexDAL.csproj.CoreCompileInputs.cache
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\bin\Debug\TestUnidexDAL.exe.config
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\bin\Debug\TestUnidexDAL.exe
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\bin\Debug\TestUnidexDAL.pdb
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\bin\Debug\UnidexIBMLDAL.dll
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\bin\Debug\UnidexIBMLDAL.pdb
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\obj\Debug\TestUnidexDAL.csproj.CopyComplete
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\obj\Debug\TestUnidexDAL.exe
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\obj\Debug\TestUnidexDAL.pdb
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\TestUnidexDAL\obj\Debug\TestUnidexDAL.csproj.AssemblyReference.cache

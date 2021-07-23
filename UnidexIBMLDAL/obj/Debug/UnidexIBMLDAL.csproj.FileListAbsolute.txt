@@ -1,0 +1,6 @@
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\UnidexIBMLDAL\bin\Debug\UnidexIBMLDAL.dll
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\UnidexIBMLDAL\bin\Debug\UnidexIBMLDAL.pdb
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\UnidexIBMLDAL\obj\Debug\UnidexIBMLDAL.csproj.CoreCompileInputs.cache
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\UnidexIBMLDAL\obj\Debug\UnidexIBMLDAL.dll
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\UnidexIBMLDAL\obj\Debug\UnidexIBMLDAL.pdb
+C:\Users\mbrown\source\repos\UnidexIBMLDAL\UnidexIBMLDAL\obj\Debug\UnidexIBMLDAL.csproj.AssemblyReference.cache
